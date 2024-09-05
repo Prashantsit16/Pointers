@@ -31,12 +31,16 @@ Performance: Call by Value: Can be slower for large data structures (like large 
 Use Cases: Call by Value: Best for cases where you do not want the function to modify the original arguments. Call by Reference: Useful when you need the function to modify the original arguments or when you want to pass large data structures without the overhead of copying.
 Output:
 Pointers basics(declaring and initializing arrays)
+![Screenshot 2024-09-05 151852](https://github.com/user-attachments/assets/be0a7519-aa6a-4693-90a7-5fdfdfaa88df)
 
 Acessing arrays using pointers
+![Screenshot 2024-09-05 151904](https://github.com/user-attachments/assets/327e3e39-1d7a-4553-81e7-1c0fcbcfbd6d)
 
 Call by value
+![Screenshot 2024-09-05 151913](https://github.com/user-attachments/assets/795f29b8-857d-4394-afd6-237d8abac472)
 
 Call by reference
+![Screenshot 2024-09-05 151923](https://github.com/user-attachments/assets/51115568-2af0-4c3a-9725-b40a85c6d101)
 
 Conclusion:
 We learnt about basics of pointers, using pointers in arrays and call by value and call by reference.
